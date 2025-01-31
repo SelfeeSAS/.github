@@ -22,7 +22,7 @@ Avant de soumettre cette PR, vérifiez les points suivants :
 - [ ] Les tests suivants ont été effectués manuellement pour valider les changements :  
   *(Décrivez ici les tests réalisés, par exemple : "vérification du formulaire X", "test des permissions Y", etc.)*
 - [ ] Les nouvelles fonctions ou modifications sont documentées et typées.
-- [ ] Les imports non utilisés ont été supprimés
+- [ ] Les imports non utilisés ont été supprimés.
 - [ ] L'historique des commits est propre et les messages sont clairs. *(Pas de WIP ou commits inutiles)*
 
 ---
