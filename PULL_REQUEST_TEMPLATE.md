@@ -17,8 +17,8 @@
 
 Avant de soumettre cette PR, vérifiez les points suivants :
 
-- [ ] J'ai bien lancé les tests fonctionnels sur ma machine locale.
 - [ ] La PR a été déployée et testée en environnement de DEV. *(optionnel)*
+- [ ] J'ai bien lancé les tests fonctionnels sur ma machine locale.
 - [ ] Les tests suivants ont été effectués manuellement pour valider les changements :  
   *(Décrivez ici les tests réalisés, par exemple : "vérification du formulaire X", "test des permissions Y", etc.)*
 - [ ] Aucune fonction n'est non-documentée ni n'a de documentation obsolète.
