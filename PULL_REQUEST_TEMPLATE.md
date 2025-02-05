@@ -21,9 +21,10 @@ Avant de soumettre cette PR, vérifiez les points suivants :
 - [ ] La PR a été déployée et testée en environnement de DEV. *(optionnel)*
 - [ ] Les tests suivants ont été effectués manuellement pour valider les changements :  
   *(Décrivez ici les tests réalisés, par exemple : "vérification du formulaire X", "test des permissions Y", etc.)*
-- [ ] Les nouvelles fonctions ou modifications sont documentées et typées.
-- [ ] Les imports non utilisés ont été supprimés.
+- [ ] Aucune fonction n'est non-documentée ni n'a de documentation obsolète.
+- [ ] Aucun import n'est inutilisé.
 - [ ] L'historique des commits est propre et les messages sont clairs. *(Pas de WIP ou commits inutiles)*
+- [ ] Le changelog a été rempli.
 
 ---
 
